@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 16px;
+}
+
+.contador-container {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+  text-align: center;
+  max-width: 320px;
+  width: 100%;
+}
+
+.contador-container h1 {
+  margin-bottom: 24px;
+  font-size: 2rem;
+}
+
+.contador-container button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #0070f3;
+  color: white;
+  cursor: pointer;
+}
+
+.contador-container button:hover {
+  background-color: #005bb5;
+}
