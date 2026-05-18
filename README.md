@@ -2,11 +2,6 @@
 
 Uma aplicação React simples que conta quantas vezes o botão foi clicado. Este projeto foi criado para praticar componentes funcionais, gerenciamento de estado com `useState` e eventos de clique no React.
 
-## Pré-requisitos
-
-- Node.js 18+ instalado
-- npm (vem junto com o Node.js)
-
 ## Instalação e uso
 
 1. Abra um terminal e clone o repositório:
